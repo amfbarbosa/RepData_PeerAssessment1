@@ -1,8 +1,10 @@
 ---
 output:
   html_document:
+    fig_caption: yes
     keep_md: yes
 ---
+
 # Reproducible Research: Peer Assessment 1
 
 ## Adjuste enviroment
